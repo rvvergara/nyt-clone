@@ -1,0 +1,14 @@
+/*Basic Styles*/
+html,
+body {
+  color: #121;
+}
+
+/* Nav Styles */
+
+.nav-main {
+  display: inline;
+}
+.nav-brand img {
+  width: 200px;
+}
