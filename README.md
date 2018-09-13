@@ -1,2 +1,7 @@
 # nyt-clone
-copy this article from the New York Times(open in an “incognito” window without cookies to view it if you’re over your monthly limit). Notice how the section titled “The Theory of Inflation” (you may need to widen your viewing window for it to show up) is laid out.
+
+# This a clone site of new york time page project of [the odin project](https://www.theodinproject.com/courses/html5-and-css3/lessons/positioning-and-floating-elements).
+
+Contributors are : [Ryan](https://github.com/rvvergara) & [Dipto](https://github.com/dipto0321)
+
+Current [demo](https://rawgit.com/dipto0321/nyt-clone/features/main-content-area/index.html)
