@@ -241,3 +241,17 @@ article h1 {
   font-weight: bold;
   font-size: 1.05em;
 }
+
+/* Theory of Inflation section's styles */
+
+.factors {
+  width: 175px;
+  height: 155px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+}
+
+.factors b {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
