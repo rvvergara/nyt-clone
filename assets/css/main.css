@@ -215,6 +215,7 @@ article h1 {
 .post-actions span {
   margin: 0 5px;
 }
+
 /* article-first-part */
 .posts {
   margin: 20px auto;
@@ -224,6 +225,7 @@ article h1 {
   position: absolute;
   top: 60px;
 }
+
 .posts p {
   margin: 20px 0;
 }

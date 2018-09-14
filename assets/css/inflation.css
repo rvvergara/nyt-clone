@@ -1,77 +1,86 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
 }
 
 /*Inflation header styles*/
 .Inflation-title span {
-  font-size: 1.25rem;
-  font-weight: 700;
-  line-height: 1.5rem;
-  position: relative;
-  top: 8px;
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1.5rem;
+    position: relative;
+    top: 8px;
 }
+
 .Inflation-caption {
-  color: #666;
-  font-size: 0.865rem;
-  line-height: 1.125rem;
-  position: relative;
-  bottom: 8px;
+    color: #666;
+    font-size: 0.865rem;
+    line-height: 1.125rem;
+    position: relative;
+    bottom: 8px;
 }
 
 /* Inflation Content Styles */
 .container img {
-  width: 945px;
+    width: 945px;
+    height: 710px;
 }
 
 .container p {
-  font-size: 13px;
-  width: 200px;
-  position: absolute;
+    font-size: 13px;
+    width: 200px;
+    position: absolute;
 }
 
 .container p strong {
-  display: inline-block;
-  font-size: 12px;
-  margin-right: 8px;
+    display: inline-block;
+    font-size: 12px;
+    margin-right: 8px;
 }
 
 .absolute-row-1 {
-  top: 230px;
+    top: 210px;
 }
 
 .absolute-row-two {
-  top: 640px;
+    top: 550px;
 }
 
 #second,
 #sixth {
-  left: 250px;
+    left: 250px;
 }
 
 #third {
-  left: 470px;
+    left: 470px;
 }
 
 #fourth,
 #eigth {
-  left: 738px;
+    left: 738px;
 }
+
 #seventh {
-  left: 492px;
+    left: 492px;
 }
 
 /* Footer styles */
+.Inflation-footer {
+    position: relative;
+    bottom: 60px;
+    color: #333;
+}
+
 .Inflation-footer span.line {
-  height: 1px;
-  width: 100px;
-  background-color: #000;
+    height: 1px;
+    width: 100px;
+    background-color: #000;
 }
 
 .Inflation-footer p {
-  font-size: 0.875rem;
-  line-height: 18px;
-  line-height: 1.125rem;
-  font-weight: 500;
-  font-style: normal;
+    font-size: 0.875rem;
+    line-height: 18px;
+    line-height: 1.125rem;
+    font-weight: 500;
+    font-style: normal;
 }
