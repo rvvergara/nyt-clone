@@ -1,41 +1,44 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .container img {
-    width: 69%;
+  width: 945px;
 }
 
 .container p {
-    font-size: 13px;
-    width: 200px;
-    position: absolute;
+  font-size: 13px;
+  width: 200px;
+  position: absolute;
 }
 
 .container p strong {
-    display: inline-block;
-    font-size: 12px;
-    margin-right: 8px;
+  display: inline-block;
+  font-size: 12px;
+  margin-right: 8px;
 }
 
 .absolute-row-1 {
-    top: 230px;
+  top: 230px;
 }
 
 .absolute-row-two {
-    top: 640px;
+  top: 640px;
 }
 
 #second,
 #sixth {
-    left: 250px;
+  left: 250px;
 }
 
-#third,
+#third {
+  left: 470px;
+}
+
+#fourth,
+#eigth {
+  left: 738px;
+}
 #seventh {
-    left: 470px;
-}
-
-#fourth {
-    left: 710px;
+  left: 492px;
 }
