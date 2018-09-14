@@ -244,11 +244,27 @@ article h1 {
   font-size: 1.05em;
 }
 
+.caption {
+  font-size: 15px;
+  color: #666;
+  line-height: 5px;
+}
+
+.caption-small {
+  font-size: 13px;
+  color: #999;
+}
+
+.posts figure img {
+  width: 630px;
+}
+
 /*iframe Styles*/
 section.embed {
   position: relative;
   top: 15px;
 }
+
 .embed iframe {
   width: 100%;
 }
