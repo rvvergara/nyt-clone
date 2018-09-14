@@ -227,3 +227,17 @@ article h1 {
 .posts p {
   margin: 20px 0;
 }
+
+.posts p a,
+.bold-link {
+  color: #326891;
+}
+
+.bold-link {
+  font-weight: bold;
+}
+
+.posts p strong {
+  font-weight: bold;
+  font-size: 1.05em;
+}
