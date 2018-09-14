@@ -243,3 +243,12 @@ article h1 {
   font-weight: bold;
   font-size: 1.05em;
 }
+
+/*iframe Styles*/
+section.embed {
+  position: relative;
+  top: 15px;
+}
+.embed iframe {
+  width: 100%;
+}
