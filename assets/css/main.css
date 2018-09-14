@@ -215,6 +215,7 @@ article h1 {
 .post-actions span {
   margin: 0 5px;
 }
+
 /* article-first-part */
 .posts {
   margin: 20px auto;
@@ -224,6 +225,102 @@ article h1 {
   position: absolute;
   top: 60px;
 }
+
 .posts p {
   margin: 20px 0;
+}
+
+.posts p a,
+.bold-link {
+  color: #326891;
+}
+
+.bold-link {
+  font-weight: bold;
+}
+
+.posts p strong {
+  font-weight: bold;
+  font-size: 1.05em;
+}
+
+.caption {
+  font-size: 15px;
+  color: #666;
+  line-height: 18px;
+}
+
+.caption-small {
+  font-size: 13px;
+  color: #999;
+  position: relative;
+  bottom: 45px;
+  left: 315px;
+}
+
+.posts figure img {
+  width: 700px;
+}
+
+/*iframe Styles*/
+section.embed {
+  position: relative;
+  top: 15px;
+}
+
+.embed iframe {
+  width: 100%;
+}
+
+/* figure styles */
+figure {
+  position: absolute;
+  left: -70px;
+}
+
+#fig-after-p {
+  margin-top: 575px;
+}
+
+.after-article {
+  line-height: 18px;
+  font-size: 11.5px;
+  font-family: Arial, Verdana, sans-serif;
+  color: #666;
+}
+
+.after-article a {
+  color: #666;
+  text-decoration: none;
+}
+
+.after-article a:hover {
+  text-decoration: underline;
+}
+
+.read-comments {
+  position: relative;
+  right: 220px;
+}
+
+section+.post-extra {
+  margin-top: 30px;
+}
+
+.read-comments button {
+  display: block;
+  width: 328px;
+  padding: 13px 0;
+}
+
+.extra-right-after-article {
+  width: 300px;
+  position: relative;
+  bottom: 30px;
+  left: 120px;
+}
+
+.extra-right-after-article i {
+  position: relative;
+  bottom: 8px;
 }
