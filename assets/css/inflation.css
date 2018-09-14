@@ -1,19 +1,52 @@
 body {
   background: url(../images/inflation-720.png);
   background-repeat: no-repeat;
-  background-size: 85%;
-  background-position: 0% 0%;
+  background-size: 75% 100%;
+  background-position: 40% 0%;
+  position: relative;
 }
 
 .factors {
   padding-top: 220px;
   width: 20%;
   float: left;
-  margin-right: 20px;
+  position: relative;
+  /* margin-right: 20px; */
   /* background: url(../images/inflation-720.png);
   background-repeat: no-repeat; */
 }
 
+.row-1 {
+  width: 80%;
+  position: relative;
+  left: 151px;
+  bottom: 70px;
+}
+
 #factors-2 {
-  /* background-position: 32% 0%; */
+  left: 45px;
+}
+#factors-3 {
+  /* position: relative; */
+  left: 85px;
+}
+#factors-4 {
+  /* position: relative; */
+  left: 155px;
+}
+#factors-5 {
+  /* position: relative; */
+  left: 45px;
+}
+#factors-6 {
+  /* position: relative; */
+  left: 40px;
+}
+#factors-7 {
+  /* position: relative; */
+  left: 40px;
+}
+#factors-8 {
+  /* position: relative; */
+  left: 40px;
 }
