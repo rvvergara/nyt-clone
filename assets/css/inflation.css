@@ -1,52 +1,34 @@
+.container,
 body {
-  background: url(../images/inflation-720.png);
-  background-repeat: no-repeat;
-  background-size: 75% 100%;
-  background-position: 40% 0%;
-  position: relative;
-}
-
-.factors {
-  padding-top: 220px;
-  width: 20%;
-  float: left;
-  position: relative;
-  /* margin-right: 20px; */
-  /* background: url(../images/inflation-720.png);
-  background-repeat: no-repeat; */
+  max-width: 90%;
+  margin: 0 auto;
 }
 
 .row-1 {
-  width: 80%;
-  position: relative;
-  left: 151px;
-  bottom: 70px;
+  background: url(../images/inflation-row-1.png);
+  background-repeat: no-repeat;
+  background-size: 85%;
+  background-position: 0% 0%;
+  height: 500px;
 }
 
-#factors-2 {
-  left: 45px;
+.row-2 {
+  background: url(../images/inflation-row-2.png);
+  background-repeat: no-repeat;
+  background-size: 85%;
+  background-position: 0% 100%;
+  height: 500px;
+  position: relative;
+  bottom: 100px;
 }
-#factors-3 {
-  /* position: relative; */
-  left: 85px;
+
+.factors {
+  padding-top: 180px;
+  width: 20%;
+  float: left;
+  margin-right: 20px;
 }
-#factors-4 {
-  /* position: relative; */
-  left: 155px;
-}
-#factors-5 {
-  /* position: relative; */
-  left: 45px;
-}
-#factors-6 {
-  /* position: relative; */
-  left: 40px;
-}
-#factors-7 {
-  /* position: relative; */
-  left: 40px;
-}
-#factors-8 {
-  /* position: relative; */
-  left: 40px;
+
+header p {
+  width: 900px;
 }
