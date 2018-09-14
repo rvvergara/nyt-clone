@@ -247,16 +247,19 @@ article h1 {
 .caption {
   font-size: 15px;
   color: #666;
-  line-height: 5px;
+  line-height: 18px;
 }
 
 .caption-small {
   font-size: 13px;
   color: #999;
+  position: relative;
+  bottom: 45px;
+  left: 315px;
 }
 
 .posts figure img {
-  width: 630px;
+  width: 700px;
 }
 
 /*iframe Styles*/
@@ -267,4 +270,14 @@ section.embed {
 
 .embed iframe {
   width: 100%;
+}
+
+/* figure styles */
+figure {
+  position: absolute;
+  left: -70px;
+}
+
+#fig-after-p {
+  margin-top: 575px;
 }
