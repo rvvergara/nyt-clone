@@ -1,3 +1,19 @@
 body {
-  background: url(/assets/images/inflation-720.png);
+  background: url(../images/inflation-720.png);
+  background-repeat: no-repeat;
+  background-size: 85%;
+  background-position: 0% 0%;
+}
+
+.factors {
+  padding-top: 220px;
+  width: 20%;
+  float: left;
+  margin-right: 20px;
+  /* background: url(../images/inflation-720.png);
+  background-repeat: no-repeat; */
+}
+
+#factors-2 {
+  /* background-position: 32% 0%; */
 }
