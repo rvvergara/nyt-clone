@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container img {
+    width: 69%;
+}
+
+.container p {
+    font-size: 13px;
+    width: 200px;
+    position: absolute;
+}
+
+.container p strong {
+    display: inline-block;
+    font-size: 12px;
+    margin-right: 8px;
+}
+
+.absolute-row-1 {
+    top: 230px;
+}
+
+.absolute-row-two {
+    top: 640px;
+}
+
+#second,
+#sixth {
+    left: 250px;
+}
+
+#third,
+#seventh {
+    left: 470px;
+}
+
+#fourth {
+    left: 710px;
+}
